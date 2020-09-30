@@ -1,1 +1,1 @@
-web: quasar dev
+web: quasar start
