@@ -1,7 +1,7 @@
 <template>
   <q-page>
     <div class="q-pa-md absolute full-width full-height page-container">
-      <div class="row q-py-md">
+      <div class="row q-pb-md">
         <sort class="col-5 fixed-height" />
         <search class="col-7 q-pl-sm fixed-height" />
       </div>
