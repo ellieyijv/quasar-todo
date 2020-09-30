@@ -13,7 +13,7 @@
         <Tasks :tasks="tasksCompleted" bg="bg-green-4" class="q-mb-md"> Completed </Tasks>
       </section>
       <!-- </q-scroll-area> -->
-      <div class="abosulte-bottom text-center q-mb-xs no-pointer-events">
+      <div class="absolute-bottom text-center q-mb-xs no-pointer-events">
         <q-btn
           size="24px"
           round
